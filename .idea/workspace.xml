@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="857a1271-1402-487f-911e-914e4afe2ac9" name="Changes" comment="" />
+    <list default="true" id="857a1271-1402-487f-911e-914e4afe2ac9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,9 +32,23 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.TemperatureConversion">
+  <component name="RunManager" selected="Application.MonthlyPay">
     <configuration name="DayOfweek" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DayOfweek" />
+      <module name="Day_06_jUnit_programs" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MonthlyPay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MonthlyPay" />
+      <module name="Day_06_jUnit_programs" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sqrt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sqrt" />
       <module name="Day_06_jUnit_programs" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -54,6 +70,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MonthlyPay" />
+        <item itemvalue="Application.Sqrt" />
         <item itemvalue="Application.TemperatureConversion" />
         <item itemvalue="Application.DayOfweek" />
         <item itemvalue="Application.VendingMachine" />
